@@ -1,5 +1,5 @@
 # Machine Learning Software Engineer 
-## On Site / Nashville, TN
+**On Site / Nashville, TN**
 
 ## About Treverse
 Treverse is a fast‑growing reverse‑logistics company that gives surplus, returned, and over‑stock products a second life through our $1‑start, real‑time bidding platform (a-stock.bid). Every week, thousands of deep‑discount shoppers compete to win inventory that would otherwise end up in landfills. By closing the loop between retailers, wholesalers, and value‑conscious buyers we keep products in use, reduce waste, and unlock new revenue streams for our partners.
