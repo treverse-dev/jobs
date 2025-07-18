@@ -13,16 +13,17 @@ Our next chapter is all about AI & machine learning: smarter user experiences, d
 You will be Treverse’s first dedicated ML hire, responsible for designing, prototyping, and productionising models that power core marketplace functions. Reporting directly to the Director of Software Engineering, you’ll have end‑to‑end ownership—from data strategy to model deployment—of a green‑field ML roadmap that touches pricing, recommender systems, demand forecasting, and shipping optimisation.
 
 
-## What We’re Looking For
-### Must‑haves
+## What We’re Looking For... 
 
+
+### Must‑haves
 - 5+ years building and deploying ML models in production (Python, PyTorch/TensorFlow, scikit‑learn).
 - Proven experience with pricing, recommendation, ranking, or marketplace optimisation algorithms.
 - Strong SQL skills and familiarity with modern data‑lake / warehouse patterns (Parquet, Redshift, BigQuery, etc.).
 - Ability to own the full MLOps lifecycle: CI/CD, feature stores, monitoring, and model retraining pipelines (Docker, AWS, SageMaker, Vertex AI, or similar).
 - Comfortable in a fast‑moving, ambiguous startup environment; can translate business KPIs into technical roadmaps.
-Nice‑to‑haves
 
+### Nice‑to‑haves
 - Background in reverse‑logistics, e‑commerce, or supply‑chain analytics.
 - Familiarity with serverless architectures (Lambda, Step Functions) and event‑driven micro‑services.
 - Experience applying reinforcement learning or bandit algorithms to pricing or allocation problems.
@@ -63,3 +64,5 @@ On-site in La Vergne, Tennessee
 * Comprehensive health, dental, and vision insurance
 * Paid time off
 * Will provide work equipment
+
+Also make sure to drop by at [A-Stock](http://www.astock.com). 
