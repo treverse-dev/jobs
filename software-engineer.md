@@ -1,5 +1,5 @@
 # Full Stack Software Engineer 
-## On Site / Nashville, TN
+**On Site / Nashville, TN**
 
 As a developer / software engineer on our team you'd be a major contributor to our micro-services ecosystem (built out in compiled languages) to provide users an alternative buying experience through our online platforms. Our infrastructure is built in the cloud (AWS) w/ code first infrastructure and we are looking for more expertise to grow our engineering team. We work on everything from front-end frameworks to backend processing of events as we build out our business. We also care about our pipelines and time so we embrace CI / CD technologies to help release code efficiently. All in all, as an small team we get to build interesting systems and partake in all aspects of the development process.
 
