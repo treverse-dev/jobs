@@ -53,14 +53,11 @@ If you are truly interested in the position and as a way to identify auto apply:
 
 
 ## Work Hours
-
 - Monday to Friday
 - 8:00 am to 5:00 pm (with some flexibility)
 
-
 ## Location
 On-site in La Vergne, Tennessee
-
 
 ## Salary and Benefits
 * Annual Salary: $90,000 - $110,000
