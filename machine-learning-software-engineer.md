@@ -14,7 +14,6 @@ You will be Treverse’s first dedicated ML hire, responsible for designing, pro
 
 
 ## What We’re Looking For
-
 ### Must‑haves
 
 - 5+ years building and deploying ML models in production (Python, PyTorch/TensorFlow, scikit‑learn).
@@ -48,6 +47,17 @@ Competitive salary • healthcare • learning stipend
 ### How to Apply
 Send your résumé / CV, a short note on the most impactful model you’ve shipped, and links to any public repos or papers to chris.ried@treversellc.com with subject line “ML @ Treverse – ${Your Name}.
 
-
-
 ”We review applications on a rolling basis and aim to reply within one week
+
+## Work Hours
+- Monday to Friday
+- 8:00 am to 5:00 pm (with some flexibility)
+
+## Location
+On-site in La Vergne, Tennessee
+
+## Salary and Benefits
+* Annual Salary: $90,000 - $110,000
+* Comprehensive health, dental, and vision insurance
+* Paid time off
+* Will provide work equipment
